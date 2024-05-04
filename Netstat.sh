@@ -1,1 +1,1 @@
-
+netstat -aeenopvW | less
