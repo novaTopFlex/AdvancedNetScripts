@@ -1,1 +1,1 @@
-top -bn 1 | less
+top -bn 1 -e k -E k | less
