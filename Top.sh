@@ -1,1 +1,1 @@
-top -b | less
+top -bn 1 | less
