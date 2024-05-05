@@ -1,1 +1,1 @@
-ls -alR | { less; wc; }
+ls -alR | { less --use-color -N --MOUSE; wc; }
