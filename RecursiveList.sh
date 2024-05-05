@@ -1,0 +1,1 @@
+ls -alR | { less; wc; }
