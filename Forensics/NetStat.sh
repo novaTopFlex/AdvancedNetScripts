@@ -1,0 +1,1 @@
+netstat | hexdump -C | less
