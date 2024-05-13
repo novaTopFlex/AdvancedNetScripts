@@ -1,1 +1,1 @@
-apropos . | less -N
+apropos --debug --verbose . | less -N
